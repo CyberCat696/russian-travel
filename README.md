@@ -6,4 +6,4 @@
 Работа по макету Figma.
 Вёрстка под разрешения разных устройств.
 
-
+Ссылка на сайт проекта: https://cybercat696.github.io/russian-travel/index.html
