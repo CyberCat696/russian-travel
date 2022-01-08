@@ -1,0 +1,17 @@
+.footer__links {
+  color: white;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0;
+}
+
+@media (max-width: 500px) {
+  .footer__links {
+    flex-direction: column;
+    flex-wrap: nowrap;
+    margin: 0;
+    display: inline-block;
+    list-style-type: none;
+  }
+}

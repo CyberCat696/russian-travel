@@ -1,0 +1,19 @@
+.place__image {
+  width: 100%;
+  height: 100%;
+}
+
+@media (max-width: 980px) {
+  .place__image {
+    max-width: 340px;
+    max-height: 340px;
+  }
+}
+
+@media (max-width: 640px) {
+  .place__image {
+    min-width: 320px;
+    min-height: 320px;
+    margin: 0 -16px 0;
+  }
+}

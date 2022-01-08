@@ -1,0 +1,15 @@
+.places {
+  padding: 12px 100px 92px;
+}
+
+@media (max-width: 1140px) {
+  .places {
+    padding: 12px 0 92px;
+  }
+}
+
+@media (max-width: 740px) {
+  .places {
+    padding: 0 0 40px;
+  }
+}
