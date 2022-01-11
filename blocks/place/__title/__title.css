@@ -21,6 +21,11 @@
   .place__title {
     font-size: 32px;
     line-height: 35px;
-    padding: 0 11px 0 0;
+  }
+}
+
+@media (max-width: 500px) {
+  .place__title {
+    padding: 0 0 0 16px;
   }
 }

@@ -1,6 +1,6 @@
 .cover__subtitle {
   color: white;
-  margin: 32px auto 0;
+  margin: 32px 0 0 0;
   padding: 0;
   font-size: 18px;
   font-weight: 400;
@@ -8,6 +8,7 @@
   max-width: 360px;
   z-index: 2;
   text-align: center;
+  align-self: center;
 }
 
 @media (max-width: 540px) {

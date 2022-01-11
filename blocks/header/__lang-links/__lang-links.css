@@ -1,5 +1,10 @@
 .header__lang-links {
-  display: flex;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18px;
   color: white;
   align-self: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
