@@ -1,11 +1,11 @@
-.place__main-text {
+.places__main-text {
   display: flex;
   flex-direction: column;
   flex-wrap: nowrap;
 }
 
 @media (max-width: 500px) {
-  .place__main-text {
+  .places__main-text {
     padding: 0 16px 0;
   }
 }

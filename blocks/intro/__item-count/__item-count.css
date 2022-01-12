@@ -1,7 +1,6 @@
-.intro__lists {
+.intro__item-count {
   max-width: 690px;
   list-style: none;
-  margin: 0;
   padding: 0;
   color: white;
   font-size: 12px;
@@ -10,7 +9,7 @@
 }
 
 @media (max-width: 780px) {
-  .intro__lists {
+  .intro__item-count {
     max-width: 720px;
   }
 }

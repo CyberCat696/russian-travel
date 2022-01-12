@@ -1,7 +1,7 @@
 .cover {
   display: flex;
   min-height: 740px;
-  background-image: url(../../../russian-travel/images/background.jpg);
+  background-image: url(../../images/background.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -45,4 +45,5 @@
 
 .cover:hover::before {
   background: rgba(42, 44, 47, 0.8);
+  transition: all .3s linear;
 }
