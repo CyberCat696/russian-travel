@@ -1,7 +1,7 @@
 .cover {
   display: flex;
   min-height: 740px;
-  background-image: url(../../images/background.jpg);
+  background-image: url(../../../russian-travel/images/background.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
