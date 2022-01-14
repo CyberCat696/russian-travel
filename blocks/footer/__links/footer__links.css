@@ -11,7 +11,6 @@
   .footer__links {
     flex-direction: column;
     flex-wrap: nowrap;
-    margin: 0;
     display: inline-block;
     list-style-type: none;
   }

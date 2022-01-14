@@ -7,7 +7,6 @@
 
 @media (max-width: 1070px) {
   .places__item {
-    grid-template-columns: 460px 1fr;
     margin: 0 48px 0;
     gap: 48px 32px;
   }
@@ -21,14 +20,6 @@
   }
 }
 
-@media (max-width: 740px) {
-  .places__item {
-    padding-top: 64px;
-  }
-}
-
-
-
 @media (max-width: 980px) {
   .places__item {
     grid-template-columns: 340px 1fr;
@@ -37,10 +28,11 @@
   }
 }
 
-@media (max-width: 720px) {
+@media (max-width: 680px) {
   .places__item {
-    grid-template-columns: 1fr;
+    grid-template-columns: repeat(1, 1fr);
     gap: 32px;
+    padding-top: 64px;
   }
 }
 

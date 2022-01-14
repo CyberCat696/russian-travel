@@ -1,9 +1,0 @@
-.item-center {
-    margin: 0 48px 0;
-}
-
-@media (max-width: 1070px) {
-    .item-center {
-        margin: 0;   
-    }
-}

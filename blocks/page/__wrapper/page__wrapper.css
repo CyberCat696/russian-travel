@@ -1,0 +1,9 @@
+.page__wrapper {
+  margin: 0 48px 0;
+}
+
+@media (max-width: 1070px) {
+  .page__wrapper {
+    margin: 0;
+  }
+}
